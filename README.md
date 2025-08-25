@@ -41,3 +41,4 @@ alb-smartsis-1665437803.us-east-1.elb.amazonaws.com
 
 ### Depois clicar em `Salvar` e aguardar uns **5 min** para o DNS se propagar
 ![Abra o arquivo](resources/parte-11.png) # web-store-pdv-readme
+# web-store-pdv-readme
