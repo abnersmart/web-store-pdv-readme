@@ -14,7 +14,7 @@ npm run start
 > Vai aparecer assim `Banco de dados criado`  
 ![Abra o arquivo](resources/parte-5.png)
 
-## 3 - Registrar [Cloudflare](https://www.cloudflare.com/pt-br/)
+## 3 - Registrar [Cloudflare](https://dash.cloudflare.com/login)
 
 ### Ir para `Cloudflare` e clicar sobre `smartpdvstore.com`
 ![Abra o arquivo](resources/parte-6.png)
