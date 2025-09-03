@@ -14,7 +14,7 @@ npm run start
 > Vai aparecer assim `Banco de dados criado`  
 ![Abra o arquivo](resources/parte-5.png)
 
-## 3 - Registrar [Cloudflare](https://developer.apple.com/account/resources/identifiers/list/serviceId)
+## 3 - Registrar [Cloudflare](https://www.cloudflare.com/pt-br/)
 
 ### Ir para `Cloudflare` e clicar sobre `smartpdvstore.com`
 ![Abra o arquivo](resources/parte-6.png)
