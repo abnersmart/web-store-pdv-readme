@@ -1,4 +1,4 @@
-# Iniciar o Store-Maker
+<img width="728" height="368" alt="image" src="https://github.com/user-attachments/assets/589e68ff-4d10-414b-8764-03db3ab7336f" /># Iniciar o Store-Maker
 
 ## 1 - Executar o comando no terminal: 
 ```bash
@@ -17,6 +17,10 @@ npm run start
 ## 3 - Registrar [Cloudflare](https://dash.cloudflare.com/login)
 
 ### Ir para `Cloudflare` e clicar sobre `smartpdvstore.com`
+
+- desenvolvimento@smartsis.com
+- DNS
+
 ![Abra o arquivo](resources/parte-6.png)
 
 ### Na barra lateral equerda clicar sobre o item `DNS` como mostra na imagem
